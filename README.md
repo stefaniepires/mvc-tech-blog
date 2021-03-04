@@ -4,6 +4,8 @@
   ### Description
   A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I have built this site completely from scratch and deployed it to Heroku. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
+### Application Deployment
+https://tech-blog-sp.herokuapp.com/
   
   ### Table of Contents 
   - [Installation](#installation)
