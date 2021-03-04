@@ -1,0 +1,20 @@
+<div class ="container">
+<div class="row">
+<div class="col">
+<div class="card">
+<div class="post-list">
+<article class="post">
+  <div class="card-header bg-dark">
+    <a href="/post/{{id}}" class= "text-light" target="_blank">{{title}}</a>
+  </div>
+  <div class="meta card-text card-body text-strong">
+    by {{user.username}} created on {{created_at}}
+    |
+    <a href="/post/{{id}}" class= "text-dark">{{comments.length}} {{format_plural "comment" comments.length}}</a>
+  </div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
