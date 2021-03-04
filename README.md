@@ -15,7 +15,7 @@ https://tech-blog-sp.herokuapp.com/
   - [Questions](#questions)
 
   ### Installation
-  Add a .env file to the root of the project
+  Add a .env file to the root of the project | 
   Run npm install
   
   ### Usage
