@@ -34,4 +34,4 @@ so that I can publish articles, blog posts, and my thoughts and opinions.
   Email: stefaniepires91@gmail.com
   GitHub: https://github.com/stefaniepires
   
-  ![Screenshot]()
+  ![Screenshot](https://github.com/stefaniepires/mvc-tech-blog/blob/main/public/screenshot_multi_view.png)
